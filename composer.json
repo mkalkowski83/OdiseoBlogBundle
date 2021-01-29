@@ -7,13 +7,13 @@
         "php": "^7.2",
 
         "excelwebzone/recaptcha-bundle": "^1.5",
-        "friendsofsymfony/ckeditor-bundle": "^1.1|^2.1",
+        "friendsofsymfony/ckeditor-bundle": "^1.1|^2.3",
         "knplabs/knp-gaufrette-bundle": "^0.5|^0.7",
-        "monolog/monolog": "~1.22",
-        "sylius/grid-bundle": "^1.6",
-        "sylius/resource-bundle": "^1.4",
+        "monolog/monolog": "^2",
+        "sylius/grid-bundle": "^1.7",
+        "sylius/resource-bundle": "^1.6",
         "symfony/framework-bundle": "^4.4",
-        "symfony/monolog-bundle": "^3.0",
+        "symfony/monolog-bundle": "^3",
         "symfony/orm-pack": "^1.0"
     },
     "require-dev": {
